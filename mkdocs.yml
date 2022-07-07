@@ -1,4 +1,10 @@
 site_name: PodPIX
+repo_url: https://github.com/podpix/podpix.github.io
 theme:
   name: material
-  
+  features:
+    - navigation.tabs
+nav:
+  - "Sobre": index.md
+  - CONTRIBUTING.md
+  - SUPPORT.md 
