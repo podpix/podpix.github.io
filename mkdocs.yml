@@ -4,6 +4,8 @@ theme:
   name: material
   features:
     - navigation.tabs
+markdown_extensions:
+  - footnotes
 nav:
   - "Sobre": index.md
   - CONTRIBUTING.md
