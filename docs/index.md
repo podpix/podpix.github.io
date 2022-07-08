@@ -6,7 +6,7 @@ Este projeto está recêm começando.
 
 ## O que é o PIX
 
-PIX é um meio de pagamento eletrônico instantâneo e de baixo custo (na maioria dos casos, gratuito), ofericido pelo [Banco Central do Brasil](https://www.bcb.gov.br/) a pessoas físicas e jurídicas[^pix-wikipedia].
+PIX é um meio de pagamento eletrônico instantâneo e de baixo custo (na maioria dos casos, gratuito), oferecido pelo [Banco Central do Brasil](https://www.bcb.gov.br/) a pessoas físicas e jurídicas[^pix-wikipedia].
 
 ## Por quê PIX?
 
