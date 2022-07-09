@@ -7,6 +7,9 @@ theme:
 markdown_extensions:
   - footnotes
 nav:
-  - "Sobre": index.md
+  - "Sobre": 
+    - index.md
+    - institucional.md
+    - imprensa.md
   - CONTRIBUTING.md
   - SUPPORT.md 
